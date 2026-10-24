@@ -9236,7 +9236,7 @@
 			(uuid "f00986d8-a227-4bae-85c6-5a94b6b8797a")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0172")
 					(unit 1)
@@ -9354,7 +9354,7 @@
 			(uuid "a4780b2d-bfd9-4b9e-adad-3e4ae91949ad")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U23")
 					(unit 1)
@@ -9432,7 +9432,7 @@
 			(uuid "d3373230-7be7-4e38-a752-66b2fb1eb76e")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0187")
 					(unit 1)
@@ -9510,7 +9510,7 @@
 			(uuid "1b80960f-1d0f-4f61-82bb-c958266762a6")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0118")
 					(unit 1)
@@ -9588,7 +9588,7 @@
 			(uuid "705b4ceb-5bb8-4a91-a722-7d4689da071c")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0199")
 					(unit 1)
@@ -9666,7 +9666,7 @@
 			(uuid "8d79382c-7f46-4d4e-b2b0-e0976000c191")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR021")
 					(unit 1)
@@ -9745,7 +9745,7 @@
 			(uuid "f144effb-941a-4827-b0c1-2ce5143ffe46")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "TP1")
 					(unit 1)
@@ -9825,7 +9825,7 @@
 			(uuid "69cfe603-a59c-4774-9992-3aad5ab0c1a2")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "SW9")
 					(unit 1)
@@ -9943,7 +9943,7 @@
 			(uuid "66c5cadd-7633-49db-8346-bdf67d4a1cfe")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U124")
 					(unit 1)
@@ -10021,7 +10021,7 @@
 			(uuid "26579e3e-6dc3-41bb-a217-a77bbef6e797")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR09")
 					(unit 1)
@@ -10139,7 +10139,7 @@
 			(uuid "32787e1d-ea7a-465d-a3ff-786c6732f4c7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U62")
 					(unit 1)
@@ -10217,7 +10217,7 @@
 			(uuid "01dbb60f-4173-44fe-925a-7bb3b961e4c2")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR028")
 					(unit 1)
@@ -10295,7 +10295,7 @@
 			(uuid "df3f4932-4f92-489e-b5d5-74aaae2d38de")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR046")
 					(unit 1)
@@ -10373,7 +10373,7 @@
 			(uuid "aa1ac3ca-13e7-454e-bb60-4d5f0f14c4ba")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0273")
 					(unit 1)
@@ -10451,7 +10451,7 @@
 			(uuid "a45a2dc1-767f-40f6-96f7-06223cd90166")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0243")
 					(unit 1)
@@ -10569,7 +10569,7 @@
 			(uuid "d8a33be9-e3c3-4049-b887-840e589368ec")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U7")
 					(unit 1)
@@ -10647,7 +10647,7 @@
 			(uuid "86fbe59d-b638-4570-bfd6-996068807785")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0116")
 					(unit 1)
@@ -10725,7 +10725,7 @@
 			(uuid "a0064a99-8e18-4ae6-b2e7-ee413d477b1e")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR027")
 					(unit 1)
@@ -10843,7 +10843,7 @@
 			(uuid "cc7dda05-e7fc-4d69-956d-e2b18ea576a3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U90")
 					(unit 1)
@@ -10921,7 +10921,7 @@
 			(uuid "92d88927-d1f1-4855-b790-e92d05d014b2")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0195")
 					(unit 1)
@@ -10999,7 +10999,7 @@
 			(uuid "338196ba-8557-40b7-b321-3737cf49863b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0164")
 					(unit 1)
@@ -11077,7 +11077,7 @@
 			(uuid "54c19591-549f-4aec-b5af-1458c0cc154d")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR026")
 					(unit 1)
@@ -11156,7 +11156,7 @@
 			(uuid "e20c087d-9212-41b0-9122-9c8ba0c227dc")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "TP4")
 					(unit 1)
@@ -11234,7 +11234,7 @@
 			(uuid "6a97194e-4dbb-41a5-bee9-bed212ca2c45")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR059")
 					(unit 1)
@@ -11352,7 +11352,7 @@
 			(uuid "0e8b66f2-7f45-4131-a28c-c4f6f4cb2c63")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U78")
 					(unit 1)
@@ -11470,7 +11470,7 @@
 			(uuid "8418311d-330f-457d-9419-d94edf908d7e")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U127")
 					(unit 1)
@@ -11548,7 +11548,7 @@
 			(uuid "fd79a294-3803-4635-b756-5e074e8e67c0")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0185")
 					(unit 1)
@@ -11626,7 +11626,7 @@
 			(uuid "6f7e6c6e-8555-46a5-98b0-af7afd802e78")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0208")
 					(unit 1)
@@ -11704,7 +11704,7 @@
 			(uuid "2834e8ac-b589-4647-adfc-6afb61d023b7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR033")
 					(unit 1)
@@ -11782,7 +11782,7 @@
 			(uuid "386fa1b8-09a8-4864-bfbe-891a055d0452")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0152")
 					(unit 1)
@@ -11860,7 +11860,7 @@
 			(uuid "141ccc01-33d8-4a17-8df3-3fd4933527e0")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0151")
 					(unit 1)
@@ -11938,7 +11938,7 @@
 			(uuid "4a9eedc9-1d60-47d6-a031-bdec217313af")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR041")
 					(unit 1)
@@ -12016,7 +12016,7 @@
 			(uuid "4f77c768-67c7-4838-81a1-1c69883bc1f4")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0145")
 					(unit 1)
@@ -12094,7 +12094,7 @@
 			(uuid "92eda81b-edf9-48b8-9f25-f6fbdbcd33f9")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR012")
 					(unit 1)
@@ -12212,7 +12212,7 @@
 			(uuid "12bf0597-036a-41c0-90ef-91b78c28305b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U49")
 					(unit 1)
@@ -12290,7 +12290,7 @@
 			(uuid "8c6dbcb3-19a6-477a-8217-a1a1c18493ce")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0252")
 					(unit 1)
@@ -12368,7 +12368,7 @@
 			(uuid "a07c0996-0ed1-4923-8764-3617f4cb23a3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0123")
 					(unit 1)
@@ -12486,7 +12486,7 @@
 			(uuid "ba01988e-d3be-4a94-86ea-668baf47afaf")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U56")
 					(unit 1)
@@ -12564,7 +12564,7 @@
 			(uuid "c2ce354d-860f-4f5d-b6c2-0cfd13934d1c")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR095")
 					(unit 1)
@@ -12682,7 +12682,7 @@
 			(uuid "1cae3c2f-fb27-44dc-876d-5bc9b63157fb")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U94")
 					(unit 1)
@@ -12760,7 +12760,7 @@
 			(uuid "15b540aa-15fb-4c0a-b1cf-e61de82e794c")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0278")
 					(unit 1)
@@ -12838,7 +12838,7 @@
 			(uuid "631210a3-f140-4375-9751-6a3ac11b0448")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0264")
 					(unit 1)
@@ -12916,7 +12916,7 @@
 			(uuid "455e578f-e79b-49ae-a005-c341d2052f7c")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR060")
 					(unit 1)
@@ -12994,7 +12994,7 @@
 			(uuid "dfe4762d-be96-4f91-a19a-f2a9a6c86503")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR098")
 					(unit 1)
@@ -13072,7 +13072,7 @@
 			(uuid "e5df64b4-1d92-457b-908e-f50216b549fe")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0204")
 					(unit 1)
@@ -13151,7 +13151,7 @@
 			(uuid "878511a1-bdcc-4169-9e14-0f25d6825040")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "C2")
 					(unit 1)
@@ -13229,7 +13229,7 @@
 			(uuid "b5c594d9-a115-4307-ab09-24491f8fa3f9")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0254")
 					(unit 1)
@@ -13347,7 +13347,7 @@
 			(uuid "836c1e61-0fda-4b81-b0b0-3b295f00e06d")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U44")
 					(unit 1)
@@ -13425,7 +13425,7 @@
 			(uuid "8de59803-2702-4955-97e2-98aeb79dc472")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0180")
 					(unit 1)
@@ -13503,7 +13503,7 @@
 			(uuid "beb01013-816d-4c09-80a1-555b7301b421")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR047")
 					(unit 1)
@@ -13621,7 +13621,7 @@
 			(uuid "8e0c5e7d-5772-4e40-bca3-d173fdb4ac60")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U50")
 					(unit 1)
@@ -13631,7 +13631,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 429.26 97.79 0)
+		(at 425.45 87.63 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13642,7 +13642,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ec7c346-b9a4-4ed6-9f7e-0f6390315527")
 		(property "Reference" "C4"
-			(at 433.07 95.6309 0)
+			(at 429.26 85.4709 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13652,8 +13652,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF"
-			(at 433.07 98.1709 0)
+		(property "Value" "47uF"
+			(at 429.26 88.0109 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13663,8 +13663,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 430.2252 101.6 0)
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
+			(at 426.4152 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13675,7 +13675,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 429.26 97.79 0)
+			(at 425.45 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13686,7 +13686,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 429.26 97.79 0)
+			(at 425.45 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13703,7 +13703,7 @@
 			(uuid "d6b2584b-c7bb-4419-a883-756ed2e9c02f")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "C4")
 					(unit 1)
@@ -13781,7 +13781,7 @@
 			(uuid "6c097aac-5d38-484a-b04c-61923a3cfd98")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR072")
 					(unit 1)
@@ -13859,7 +13859,7 @@
 			(uuid "f27b9ed2-af3f-4cf9-875c-8b655733fc06")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0260")
 					(unit 1)
@@ -13936,7 +13936,7 @@
 			(uuid "4c058222-e82d-42b9-a18d-ef9fee9d3c87")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR05")
 					(unit 1)
@@ -14014,7 +14014,7 @@
 			(uuid "0364c65b-79bc-4786-91dc-9d81155ac5f8")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0192")
 					(unit 1)
@@ -14132,7 +14132,7 @@
 			(uuid "96c322a3-188b-408c-a08d-daf9b80cdbf2")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U123")
 					(unit 1)
@@ -14210,7 +14210,7 @@
 			(uuid "dbd6c48f-643b-4d64-add6-063c86bdd16f")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR074")
 					(unit 1)
@@ -14328,7 +14328,7 @@
 			(uuid "be943d7a-2e07-417a-89e4-fb27f1637fe3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U71")
 					(unit 1)
@@ -14406,7 +14406,7 @@
 			(uuid "5ef9b4f4-ef53-4599-b9fd-3953e001b7c0")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0277")
 					(unit 1)
@@ -14484,7 +14484,7 @@
 			(uuid "751d4f5e-f7b2-4b11-b63b-8f371db0114f")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR087")
 					(unit 1)
@@ -14562,7 +14562,7 @@
 			(uuid "4f16643c-0395-48a4-ba43-47b0f32c269d")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR083")
 					(unit 1)
@@ -14640,7 +14640,7 @@
 			(uuid "ec634f3c-925d-4e01-a946-81ef12348731")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0110")
 					(unit 1)
@@ -14758,7 +14758,7 @@
 			(uuid "c4e844ee-5cad-4985-a6dc-b0cbc146f334")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U63")
 					(unit 1)
@@ -14836,7 +14836,7 @@
 			(uuid "ba6d4e96-596a-4eb4-b4e7-4f1cd44d0868")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0270")
 					(unit 1)
@@ -14914,7 +14914,7 @@
 			(uuid "02774aca-9958-4f9f-8cd7-73f2c954fd63")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0255")
 					(unit 1)
@@ -14992,7 +14992,7 @@
 			(uuid "cbe97791-1b13-44cf-90c9-53200f7ea4d6")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR066")
 					(unit 1)
@@ -15070,7 +15070,7 @@
 			(uuid "505f1177-3c6a-42a2-a629-a5dbee9debe7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR024")
 					(unit 1)
@@ -15188,7 +15188,7 @@
 			(uuid "63069404-aeaa-426a-bdfa-5413e10dedd5")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U85")
 					(unit 1)
@@ -15266,7 +15266,7 @@
 			(uuid "1d2863ad-b79f-4e17-bcd0-1d6731300e59")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0176")
 					(unit 1)
@@ -15344,7 +15344,7 @@
 			(uuid "87c5ee8a-2024-4fc8-9074-697f7ff29b4d")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0202")
 					(unit 1)
@@ -15422,7 +15422,7 @@
 			(uuid "42641297-3bbd-4d5e-aab2-da05320628b7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR045")
 					(unit 1)
@@ -15500,7 +15500,7 @@
 			(uuid "a619b2f7-9b35-4194-a13d-5f5d0204445d")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0268")
 					(unit 1)
@@ -15578,7 +15578,7 @@
 			(uuid "8179e3fb-824c-426b-9c21-5cd8cd53007b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR07")
 					(unit 1)
@@ -15656,7 +15656,7 @@
 			(uuid "6c052a14-2dcf-473f-935a-d435abd8e0f3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR099")
 					(unit 1)
@@ -15734,7 +15734,7 @@
 			(uuid "c18448b2-94ba-4ac5-94ef-bde3a49c1b18")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR06")
 					(unit 1)
@@ -15812,7 +15812,7 @@
 			(uuid "20fcbd08-ad65-4fe2-9295-e71106a88b75")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0129")
 					(unit 1)
@@ -15890,7 +15890,7 @@
 			(uuid "007726a3-1d18-4b3c-a9e9-a23c162b64a2")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0245")
 					(unit 1)
@@ -15968,7 +15968,7 @@
 			(uuid "0e1d3a0c-6500-4975-b501-dffec13458f1")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0131")
 					(unit 1)
@@ -16048,7 +16048,7 @@
 			(uuid "3c5bbce3-8540-40ac-a3b3-c1f9642994ab")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "SW3")
 					(unit 1)
@@ -16126,7 +16126,7 @@
 			(uuid "aebeb00e-37d9-42cd-9d99-a5b537c2c0f7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0157")
 					(unit 1)
@@ -16244,7 +16244,7 @@
 			(uuid "51e4cbca-c9b0-457a-a463-dfd0ff5a3fd3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U25")
 					(unit 1)
@@ -16322,7 +16322,7 @@
 			(uuid "6d130115-1c0f-4bb4-af70-313051773e85")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR023")
 					(unit 1)
@@ -16440,7 +16440,7 @@
 			(uuid "8b9b10b4-b67c-47b1-b7d4-4d7e46a99b02")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U126")
 					(unit 1)
@@ -16558,7 +16558,7 @@
 			(uuid "2ba5c59f-7611-45c5-b231-33259a938cd5")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U107")
 					(unit 1)
@@ -16636,7 +16636,7 @@
 			(uuid "1c1a63ad-9469-496b-a91e-b532f45c60bd")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0156")
 					(unit 1)
@@ -16714,7 +16714,7 @@
 			(uuid "3d095d28-d9f7-4a20-a7ae-3f8d79ee88ec")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0256")
 					(unit 1)
@@ -16792,7 +16792,7 @@
 			(uuid "ff5e1b32-10c0-49b1-bd35-c2b389eea96a")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR039")
 					(unit 1)
@@ -16870,7 +16870,7 @@
 			(uuid "751cfe61-5149-4460-9016-14f59b769be0")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0251")
 					(unit 1)
@@ -16988,7 +16988,7 @@
 			(uuid "1cf03f07-0e99-48af-b507-f463bdf5499a")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U89")
 					(unit 1)
@@ -17106,7 +17106,7 @@
 			(uuid "c14b3e8f-b043-4847-b4bb-8b45b9be0ec0")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U14")
 					(unit 1)
@@ -17224,7 +17224,7 @@
 			(uuid "dd73464c-c7ad-4e79-a004-db4293607726")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U11")
 					(unit 1)
@@ -17302,7 +17302,7 @@
 			(uuid "4fc26c21-43f4-4f98-9a98-dc78edac7681")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0148")
 					(unit 1)
@@ -17380,7 +17380,7 @@
 			(uuid "c9719fd5-c120-4a3c-aae9-b13185504217")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0250")
 					(unit 1)
@@ -17458,7 +17458,7 @@
 			(uuid "ce8691e8-585b-4cd9-9116-7ff1fb2942b2")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR097")
 					(unit 1)
@@ -17536,7 +17536,7 @@
 			(uuid "29cbe365-9eb2-43be-b26c-80649d147a02")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR02")
 					(unit 1)
@@ -17654,7 +17654,7 @@
 			(uuid "07c00c55-a6c3-411e-b716-f948a82f80d3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U84")
 					(unit 1)
@@ -17732,7 +17732,7 @@
 			(uuid "0aef7f0b-34af-4e42-9424-bde1675fec50")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR01")
 					(unit 1)
@@ -17810,7 +17810,7 @@
 			(uuid "91e72414-3242-4608-8ccc-5b1bb5b62a13")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0229")
 					(unit 1)
@@ -17928,7 +17928,7 @@
 			(uuid "e724ca13-68f7-44d6-875c-4fc529bf1e46")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U48")
 					(unit 1)
@@ -18006,7 +18006,7 @@
 			(uuid "c20d45c3-35f7-411b-b6e0-509ced1abcc3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR040")
 					(unit 1)
@@ -18084,7 +18084,7 @@
 			(uuid "d61bf971-a541-4d60-aad1-b4eb39f957e9")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0227")
 					(unit 1)
@@ -18162,7 +18162,7 @@
 			(uuid "94a8e97c-0d32-4937-96d7-3a879524fb52")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0126")
 					(unit 1)
@@ -18240,7 +18240,7 @@
 			(uuid "3a1bcd75-c0ef-46ed-bdab-4d8083d12bc1")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0263")
 					(unit 1)
@@ -18358,7 +18358,7 @@
 			(uuid "826b61bc-2fde-4061-a098-bb9b26370166")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U64")
 					(unit 1)
@@ -18436,7 +18436,7 @@
 			(uuid "05a913c0-4866-4efb-a21c-8ed40e858197")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0231")
 					(unit 1)
@@ -18514,7 +18514,7 @@
 			(uuid "2e18a8b5-9b85-442c-8627-ac82af9c80ba")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0183")
 					(unit 1)
@@ -18632,7 +18632,7 @@
 			(uuid "0f9fd440-4949-4864-804e-5bf8c30324f9")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U74")
 					(unit 1)
@@ -18750,7 +18750,7 @@
 			(uuid "836f253a-e4dd-46dd-9abd-dbfa1869eb16")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U105")
 					(unit 1)
@@ -18868,7 +18868,7 @@
 			(uuid "e60bd72b-6c59-4563-a6c1-43a1baf5f1d7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U30")
 					(unit 1)
@@ -18946,7 +18946,7 @@
 			(uuid "7c5b7bad-6ad2-471a-a0a2-d42ea28625a8")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR081")
 					(unit 1)
@@ -19024,7 +19024,7 @@
 			(uuid "7c52fcac-94e2-47cf-afcf-c7c1d5e90221")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0240")
 					(unit 1)
@@ -19142,7 +19142,7 @@
 			(uuid "900c33b6-50d7-46ed-9615-af5fb0185422")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U66")
 					(unit 1)
@@ -19260,7 +19260,7 @@
 			(uuid "f0bef8b2-6341-4e0c-ba95-4bc920c8a649")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U10")
 					(unit 1)
@@ -19338,7 +19338,7 @@
 			(uuid "5d2e456d-86d6-444c-b883-7137c7f10ac1")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0196")
 					(unit 1)
@@ -19416,7 +19416,7 @@
 			(uuid "32b53642-4ac9-475b-8302-16c8d23e0af6")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0238")
 					(unit 1)
@@ -19534,7 +19534,7 @@
 			(uuid "fae19b57-c475-4843-a509-440e35577331")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U81")
 					(unit 1)
@@ -19612,7 +19612,7 @@
 			(uuid "91dcc2f5-2c70-4d4b-b0a3-17fa8b2636e6")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0258")
 					(unit 1)
@@ -19690,7 +19690,7 @@
 			(uuid "d82f19ac-3d26-4a00-b299-eed8117a044d")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR044")
 					(unit 1)
@@ -19768,7 +19768,7 @@
 			(uuid "bdbd664e-a4bb-496b-a8e8-b8c04c0562ed")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR086")
 					(unit 1)
@@ -19846,7 +19846,7 @@
 			(uuid "43846c10-4e98-441e-916e-9ee3254fe204")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0261")
 					(unit 1)
@@ -19926,7 +19926,7 @@
 			(uuid "d4d78f14-674d-4461-8e70-541c52525db3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "SW8")
 					(unit 1)
@@ -20051,7 +20051,7 @@
 			(uuid "f639aa27-3c8f-4ad6-b663-6225b7a6bbae")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "J1")
 					(unit 1)
@@ -20169,7 +20169,7 @@
 			(uuid "2929f641-4782-4f4e-8cbc-2122396f4631")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U70")
 					(unit 1)
@@ -20247,7 +20247,7 @@
 			(uuid "58cbdaa2-7b16-4575-85b8-02be7ddc5219")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0194")
 					(unit 1)
@@ -20325,7 +20325,7 @@
 			(uuid "da8d94b4-fc81-4a51-b556-b512323fb7b3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0205")
 					(unit 1)
@@ -20443,7 +20443,7 @@
 			(uuid "0e664bb6-54e9-48f9-94e8-b72bf11b17c9")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U72")
 					(unit 1)
@@ -20561,7 +20561,7 @@
 			(uuid "6f4ea959-58b0-4683-9f47-a2d35c440b55")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U76")
 					(unit 1)
@@ -20639,7 +20639,7 @@
 			(uuid "09489bb2-a358-48a5-b50c-bf071355d94d")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0159")
 					(unit 1)
@@ -20670,7 +20670,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "47uF"
 			(at 429.26 239.1409 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20681,7 +20681,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 426.4152 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -20721,7 +20721,7 @@
 			(uuid "aba818e7-065e-4be5-a1b0-b96109dcdc3c")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "C3")
 					(unit 1)
@@ -20799,7 +20799,7 @@
 			(uuid "8dda771e-9f9f-496f-9695-00af8389dbd0")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0234")
 					(unit 1)
@@ -20877,7 +20877,7 @@
 			(uuid "ab98de2f-66b5-45a6-b08a-626f2059effe")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0281")
 					(unit 1)
@@ -20955,7 +20955,7 @@
 			(uuid "d0376390-bc9a-49ab-aac7-3f7c69357e4d")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0182")
 					(unit 1)
@@ -21033,7 +21033,7 @@
 			(uuid "2fb66c13-a5b2-4551-bf1a-3c4f15e84119")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR093")
 					(unit 1)
@@ -21111,7 +21111,7 @@
 			(uuid "cc995fb7-c675-4684-90c1-501a0436d764")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0259")
 					(unit 1)
@@ -21189,7 +21189,7 @@
 			(uuid "28851da6-6ea7-4e95-93af-da657b33f4ec")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR029")
 					(unit 1)
@@ -21267,7 +21267,7 @@
 			(uuid "54a5b5bf-6fed-417a-875d-39f42e357a20")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR088")
 					(unit 1)
@@ -21385,7 +21385,7 @@
 			(uuid "c8d28442-93ac-4722-82fb-077f46671cb3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U45")
 					(unit 1)
@@ -21463,7 +21463,7 @@
 			(uuid "2229d2a1-93ce-4ef7-9d5b-00dbc117f386")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0198")
 					(unit 1)
@@ -21541,7 +21541,7 @@
 			(uuid "c5ec4726-b646-4b4d-aec5-0a737c1f6d2c")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0154")
 					(unit 1)
@@ -21659,7 +21659,7 @@
 			(uuid "24551dde-861e-4e2f-abe9-a8def8cb66e0")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U54")
 					(unit 1)
@@ -21777,7 +21777,7 @@
 			(uuid "1b3c8018-c1b0-447e-89a0-854d1336c1ca")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U121")
 					(unit 1)
@@ -21855,7 +21855,7 @@
 			(uuid "fbe12973-8d4f-4e74-9ce0-e4e042bc36f3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR043")
 					(unit 1)
@@ -21933,7 +21933,7 @@
 			(uuid "31bbc91e-0aa9-4eef-b283-b468a9783785")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0179")
 					(unit 1)
@@ -22011,7 +22011,7 @@
 			(uuid "50af0f4d-0076-42fd-a842-70e56fe5c26c")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0249")
 					(unit 1)
@@ -22089,7 +22089,7 @@
 			(uuid "9da67e8e-1319-424e-a87a-369df3952d9d")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0191")
 					(unit 1)
@@ -22167,7 +22167,7 @@
 			(uuid "b91f5221-3d07-48f1-842c-fa6f66785dad")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0144")
 					(unit 1)
@@ -22285,7 +22285,7 @@
 			(uuid "4e822d7c-541e-4309-a9e7-94cd299e4e15")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U106")
 					(unit 1)
@@ -22363,7 +22363,7 @@
 			(uuid "c022e766-247c-4fc9-b88e-2af0066d155e")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0162")
 					(unit 1)
@@ -22481,7 +22481,7 @@
 			(uuid "55a63e48-89b8-45dd-b4e0-3f30ae6bedd5")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U33")
 					(unit 1)
@@ -22559,7 +22559,7 @@
 			(uuid "b92bdac3-bf05-4bf2-aefa-98ee5ff7c096")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR057")
 					(unit 1)
@@ -22637,7 +22637,7 @@
 			(uuid "fbcf6899-1f51-4be7-aaa9-376d90e58333")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR032")
 					(unit 1)
@@ -22715,7 +22715,7 @@
 			(uuid "75fe9f34-3eb0-47a5-bb58-3b5f07785d96")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR079")
 					(unit 1)
@@ -22833,7 +22833,7 @@
 			(uuid "3821fd65-6b1d-48aa-a2be-beb3a59f1f69")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U104")
 					(unit 1)
@@ -22912,7 +22912,7 @@
 			(uuid "4b399ad0-9501-48a0-8e39-2d854ce4d4e2")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "R1")
 					(unit 1)
@@ -23030,7 +23030,7 @@
 			(uuid "064ecf0b-7f6e-41d2-9d8b-dcf3c6e8c538")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U13")
 					(unit 1)
@@ -23148,7 +23148,7 @@
 			(uuid "02d37347-686f-48ca-ac50-dc55901e71f2")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U117")
 					(unit 1)
@@ -23266,7 +23266,7 @@
 			(uuid "d688a739-a1a3-4dde-8687-2f9b3c114e0c")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U22")
 					(unit 1)
@@ -23344,7 +23344,7 @@
 			(uuid "0d8a4a12-cf26-458b-805d-70529c116181")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0143")
 					(unit 1)
@@ -23422,7 +23422,7 @@
 			(uuid "5f5d71dc-c8ef-4526-8ddf-596c0d066d50")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR085")
 					(unit 1)
@@ -23540,7 +23540,7 @@
 			(uuid "df5070e5-7dc6-44a1-b090-0e51c48fbfbc")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U20")
 					(unit 1)
@@ -23619,7 +23619,7 @@
 			(uuid "566222ec-dcfd-4d96-9c24-7ae2fcee924d")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "R9")
 					(unit 1)
@@ -23698,7 +23698,7 @@
 			(uuid "6d505f73-bf92-48a0-a982-c3780af0d815")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "R5")
 					(unit 1)
@@ -23776,7 +23776,7 @@
 			(uuid "12e4bda6-5b2f-4652-a1d1-881623bb8bfc")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0124")
 					(unit 1)
@@ -23894,7 +23894,7 @@
 			(uuid "19a620f8-0b34-4e22-9327-456424a0d25c")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U118")
 					(unit 1)
@@ -23972,7 +23972,7 @@
 			(uuid "7c1a207d-2af7-453a-bf50-04de7957d809")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0177")
 					(unit 1)
@@ -24050,7 +24050,7 @@
 			(uuid "658a6530-597a-475a-968d-9b434a449354")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0117")
 					(unit 1)
@@ -24128,7 +24128,7 @@
 			(uuid "a8999da1-ece5-46b2-aa43-db04d7f7e663")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0142")
 					(unit 1)
@@ -24206,7 +24206,7 @@
 			(uuid "5ccaabba-8303-4f61-8b2a-b7ecf4d236d8")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0106")
 					(unit 1)
@@ -24285,7 +24285,7 @@
 			(uuid "af7ca126-ce16-4305-866b-e8d314a7a589")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "R8")
 					(unit 1)
@@ -24363,7 +24363,7 @@
 			(uuid "4edd413e-d458-4025-ab45-b825a12e6260")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0137")
 					(unit 1)
@@ -24441,7 +24441,7 @@
 			(uuid "be038629-6e45-43e4-a7ed-23c27e354236")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR069")
 					(unit 1)
@@ -24519,7 +24519,7 @@
 			(uuid "e55e9888-be5d-42fa-9125-a4609532d055")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0223")
 					(unit 1)
@@ -24597,7 +24597,7 @@
 			(uuid "045dda2d-3b98-4635-9379-33ce1b1957ed")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0215")
 					(unit 1)
@@ -24715,7 +24715,7 @@
 			(uuid "1acb2b76-4623-49d5-9d81-3329a3d0901b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U28")
 					(unit 1)
@@ -24793,7 +24793,7 @@
 			(uuid "9214b085-62ac-4fbb-ab60-72bcc430d485")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0140")
 					(unit 1)
@@ -24911,7 +24911,7 @@
 			(uuid "e800f56b-0149-439c-b96c-db7e4c2ed9ae")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U16")
 					(unit 1)
@@ -25029,7 +25029,7 @@
 			(uuid "75a7a3ae-93d1-4bd6-815a-dac14589f33d")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U86")
 					(unit 1)
@@ -25147,7 +25147,7 @@
 			(uuid "7d9ac666-cbd3-413c-a596-5f6c3aa30f08")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U9")
 					(unit 1)
@@ -25225,7 +25225,7 @@
 			(uuid "0ad5badd-03d5-4e94-a554-51bbc6e4944b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR094")
 					(unit 1)
@@ -25304,7 +25304,7 @@
 			(uuid "31034a4c-3b6d-4454-a862-b0b69ea44877")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "R6")
 					(unit 1)
@@ -25422,7 +25422,7 @@
 			(uuid "a99ee376-fc06-4c27-9ce0-c15ff9562f08")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U34")
 					(unit 1)
@@ -25502,7 +25502,7 @@
 			(uuid "7b65d69a-abbe-407f-ba23-a6bed4da9c8d")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "SW2")
 					(unit 1)
@@ -25626,7 +25626,7 @@
 			(uuid "a6787087-ebad-47a0-b2d5-524f3b2f5d5b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U1")
 					(unit 1)
@@ -25704,7 +25704,7 @@
 			(uuid "44effbec-5ed7-409e-b5e7-dee33bfc44ef")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR050")
 					(unit 1)
@@ -25783,7 +25783,7 @@
 			(uuid "7fe9256d-fd72-4cbc-8434-690cb79af916")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "R13")
 					(unit 1)
@@ -25862,7 +25862,7 @@
 			(uuid "bd13c79b-24da-4d71-9ad8-db75769bc455")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "R10")
 					(unit 1)
@@ -25940,7 +25940,7 @@
 			(uuid "a1f868df-262e-478a-ba36-77c28932796b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0228")
 					(unit 1)
@@ -26058,7 +26058,7 @@
 			(uuid "2c8d0c01-54ee-41d1-a83f-62137af7d416")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U109")
 					(unit 1)
@@ -26136,7 +26136,7 @@
 			(uuid "1cd2c679-b481-4599-924b-118e6d3abfcc")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR038")
 					(unit 1)
@@ -26254,7 +26254,7 @@
 			(uuid "69e0156d-4b0c-4ed0-9dc5-e9bbdcf7ed45")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U79")
 					(unit 1)
@@ -26332,7 +26332,7 @@
 			(uuid "d6d4f60d-f083-4cd3-bbe5-876ea1b9c3cf")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR03")
 					(unit 1)
@@ -26450,7 +26450,7 @@
 			(uuid "32e2f92a-e60d-4160-8058-461814a5a91b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U91")
 					(unit 1)
@@ -26568,7 +26568,7 @@
 			(uuid "24c3a120-a2f9-4a28-9f73-7b4afc6a1af7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U42")
 					(unit 1)
@@ -26646,7 +26646,7 @@
 			(uuid "0830ab93-8b3a-4894-97f4-ac4485cc08a8")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0184")
 					(unit 1)
@@ -26764,7 +26764,7 @@
 			(uuid "41c68fb0-98d5-4588-a9fe-03768d173853")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U115")
 					(unit 1)
@@ -26882,7 +26882,7 @@
 			(uuid "54269801-5917-4a37-8657-f3de9d28305b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U51")
 					(unit 1)
@@ -26960,7 +26960,7 @@
 			(uuid "55dbeb2c-6922-45f8-a8a9-086a2c3d7d1b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR014")
 					(unit 1)
@@ -27038,7 +27038,7 @@
 			(uuid "ad3237e3-b758-4ca0-aff0-f99a98ef1453")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0246")
 					(unit 1)
@@ -27116,7 +27116,7 @@
 			(uuid "6d84e630-0ef4-47ed-929e-5ad389cf15db")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR052")
 					(unit 1)
@@ -27194,7 +27194,7 @@
 			(uuid "8273abf7-61ea-438a-b160-d9fd4570c3e6")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR065")
 					(unit 1)
@@ -27272,7 +27272,7 @@
 			(uuid "52642304-88b9-4a84-97ca-39e10c97cc77")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0178")
 					(unit 1)
@@ -27390,7 +27390,7 @@
 			(uuid "98584dd6-4f38-4ad6-bf89-20740ed17cb5")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U60")
 					(unit 1)
@@ -27468,7 +27468,7 @@
 			(uuid "133c6c4b-55d8-420c-810c-29df30a29129")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0120")
 					(unit 1)
@@ -27546,7 +27546,7 @@
 			(uuid "919a6fad-7f51-42a4-b797-cf194e8e0b1b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0107")
 					(unit 1)
@@ -27624,7 +27624,7 @@
 			(uuid "92c600a6-7032-4b7d-93bd-c6ec4141bb97")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0282")
 					(unit 1)
@@ -27702,7 +27702,7 @@
 			(uuid "c8d28ce6-10a2-4f27-ba86-4903f83f793b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR031")
 					(unit 1)
@@ -27820,7 +27820,7 @@
 			(uuid "34a650a7-b851-47ee-a47d-8b8771f04722")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U40")
 					(unit 1)
@@ -27898,7 +27898,7 @@
 			(uuid "c68f179c-1999-4e96-9196-a0a53f64d814")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0165")
 					(unit 1)
@@ -27976,7 +27976,7 @@
 			(uuid "75c3e9cf-e5bc-4961-9f0f-a6ffa4a56ccd")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0265")
 					(unit 1)
@@ -28094,7 +28094,7 @@
 			(uuid "8f1ea478-d6b5-4183-b14a-495af3d072d4")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U18")
 					(unit 1)
@@ -28212,7 +28212,7 @@
 			(uuid "89a1978d-88ab-49e1-8941-d7482d73f852")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U67")
 					(unit 1)
@@ -28330,7 +28330,7 @@
 			(uuid "e8e7d636-fc56-4e3e-b3af-baa3446117fb")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U41")
 					(unit 1)
@@ -28408,7 +28408,7 @@
 			(uuid "d5bdf82c-5ca3-47a9-999c-6d7dbbc53fe5")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0226")
 					(unit 1)
@@ -28486,7 +28486,7 @@
 			(uuid "f7e22f1a-6a54-41b5-8b73-6a86d79fbd81")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR053")
 					(unit 1)
@@ -28565,7 +28565,7 @@
 			(uuid "14aa7758-fdba-4a7d-bb04-b7295f5625c3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "R3")
 					(unit 1)
@@ -28683,7 +28683,7 @@
 			(uuid "e90b0772-0f06-44a0-8a22-1826ca2f8254")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U75")
 					(unit 1)
@@ -28801,7 +28801,7 @@
 			(uuid "8d6a7c9d-12be-478f-8136-b9e28568c77a")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U59")
 					(unit 1)
@@ -28879,7 +28879,7 @@
 			(uuid "f0b1f117-4a37-4e79-99bd-53e6d056a220")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR020")
 					(unit 1)
@@ -28957,7 +28957,7 @@
 			(uuid "eccb1f29-594c-4b2d-be7c-c16f4b0bc738")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR090")
 					(unit 1)
@@ -29035,7 +29035,7 @@
 			(uuid "7ab78d4c-cf16-45ef-a4d8-f4a82ca3e5f2")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR054")
 					(unit 1)
@@ -29153,7 +29153,7 @@
 			(uuid "a5e90518-e92c-45f0-ad95-94e15eb87dd2")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U69")
 					(unit 1)
@@ -29231,7 +29231,7 @@
 			(uuid "f88608f0-7fc8-445b-88b9-09b6cb50000b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0232")
 					(unit 1)
@@ -29349,7 +29349,7 @@
 			(uuid "de17c0b6-7603-46b0-9138-9e2e8a9e0db7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U61")
 					(unit 1)
@@ -29467,7 +29467,7 @@
 			(uuid "f7c3ee3b-3faa-4ce6-80ff-e72fa392cc30")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U37")
 					(unit 1)
@@ -29545,7 +29545,7 @@
 			(uuid "8c74520a-4178-4ca0-89cf-f8e81769bd52")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0104")
 					(unit 1)
@@ -29623,7 +29623,7 @@
 			(uuid "055c14d1-5da8-4e98-aa5b-65678eaa7907")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR018")
 					(unit 1)
@@ -29741,7 +29741,7 @@
 			(uuid "2715ae6e-8621-4cf5-bcd1-41109280f207")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U77")
 					(unit 1)
@@ -29819,7 +29819,7 @@
 			(uuid "beb56203-9eb3-4b1a-984f-50cb3dea8175")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0230")
 					(unit 1)
@@ -29897,7 +29897,7 @@
 			(uuid "53bb13e6-6ac8-4c21-8f2a-56f244cd2999")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR061")
 					(unit 1)
@@ -29975,7 +29975,7 @@
 			(uuid "e7f44b6e-69bc-41e6-8e75-63d6d438c8b9")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR063")
 					(unit 1)
@@ -30053,7 +30053,7 @@
 			(uuid "0de91e63-2fd8-4961-816e-4af88aaab263")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0121")
 					(unit 1)
@@ -30131,7 +30131,7 @@
 			(uuid "35600b00-055e-4591-a418-356963d0ff3e")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR019")
 					(unit 1)
@@ -30209,7 +30209,7 @@
 			(uuid "24cdc857-bbc2-4cb9-a885-d2904c5c54de")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0219")
 					(unit 1)
@@ -30287,7 +30287,7 @@
 			(uuid "d88acb98-777a-4142-863f-b1fa840d6b68")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0174")
 					(unit 1)
@@ -30365,7 +30365,7 @@
 			(uuid "7ebaff06-afea-4b6a-ba8b-ae8e427f044f")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR062")
 					(unit 1)
@@ -30444,7 +30444,7 @@
 			(uuid "93646042-88e3-4fbc-a79c-d25dc6853c0f")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "R4")
 					(unit 1)
@@ -30522,7 +30522,7 @@
 			(uuid "f8d35f4f-60e1-4eca-af57-321f09a58c2f")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR025")
 					(unit 1)
@@ -30600,7 +30600,7 @@
 			(uuid "62167cbc-7821-4761-a0d3-676835e5e194")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR080")
 					(unit 1)
@@ -30680,7 +30680,7 @@
 			(uuid "3226a123-3509-476a-853e-f47b10a92e84")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "SW5")
 					(unit 1)
@@ -30757,7 +30757,7 @@
 			(uuid "228bd197-7a68-4356-91e4-b746427f84e2")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR017")
 					(unit 1)
@@ -30836,7 +30836,7 @@
 			(uuid "8c5985b6-5469-4025-a6c4-958e7b76fb75")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "R12")
 					(unit 1)
@@ -30914,7 +30914,7 @@
 			(uuid "a20a9a1e-6feb-4c08-8e66-d4735ebccefe")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR071")
 					(unit 1)
@@ -30992,7 +30992,7 @@
 			(uuid "d344f5bb-66cd-47d6-9400-3c4b6a1b4396")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR068")
 					(unit 1)
@@ -31110,7 +31110,7 @@
 			(uuid "11780d8e-7ba1-42fa-aa8d-f9795223d93a")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U87")
 					(unit 1)
@@ -31188,7 +31188,7 @@
 			(uuid "0d8751ef-86f2-4ba7-a49d-8da90989b787")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0153")
 					(unit 1)
@@ -31306,7 +31306,7 @@
 			(uuid "b48c5643-7d02-4faa-aeed-7553dc507eb7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U52")
 					(unit 1)
@@ -31424,7 +31424,7 @@
 			(uuid "fa815037-a28b-4f4f-9ee8-da9677ef3d4f")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U8")
 					(unit 1)
@@ -31502,7 +31502,7 @@
 			(uuid "85acfc69-2587-434c-adea-f1afa9c03c9c")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0247")
 					(unit 1)
@@ -31620,7 +31620,7 @@
 			(uuid "6adab80b-0451-4811-9424-9d27dbc66923")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U97")
 					(unit 1)
@@ -31698,7 +31698,7 @@
 			(uuid "5176624b-8d85-4728-bbdf-9d5f6c825f95")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0210")
 					(unit 1)
@@ -31816,7 +31816,7 @@
 			(uuid "44894301-2381-40ba-93e2-1c6e095f6c16")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U17")
 					(unit 1)
@@ -31894,7 +31894,7 @@
 			(uuid "dbeca0b2-db96-4da3-9c3c-36dabcd2f678")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0160")
 					(unit 1)
@@ -31972,7 +31972,7 @@
 			(uuid "98bafd70-724f-478b-af1a-a6dc4f52ae7e")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR078")
 					(unit 1)
@@ -32050,7 +32050,7 @@
 			(uuid "2750becb-ef0e-4766-9eda-b85a803bf5d0")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0211")
 					(unit 1)
@@ -32128,7 +32128,7 @@
 			(uuid "2a139efd-fb2b-471b-ae4c-f623d1cd682f")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR034")
 					(unit 1)
@@ -32206,7 +32206,7 @@
 			(uuid "129d8b4e-4284-423e-a130-7ebcd2bebee3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR056")
 					(unit 1)
@@ -32324,7 +32324,7 @@
 			(uuid "00852298-3e7e-4a87-87f4-35345ca26986")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U46")
 					(unit 1)
@@ -32402,7 +32402,7 @@
 			(uuid "6f66b825-9a02-4bb6-b381-4831369b7471")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0161")
 					(unit 1)
@@ -32520,7 +32520,7 @@
 			(uuid "73c18ef4-00f7-4a54-b0b0-7e065446c588")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U112")
 					(unit 1)
@@ -32598,7 +32598,7 @@
 			(uuid "c45aece3-ab18-4e2a-b8b0-c1d372d043d7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0138")
 					(unit 1)
@@ -32676,7 +32676,7 @@
 			(uuid "0ff4121f-807f-4390-8f70-a69b45765562")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0203")
 					(unit 1)
@@ -32754,7 +32754,7 @@
 			(uuid "455ffef9-f495-41be-aa86-594dff7a6d35")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0257")
 					(unit 1)
@@ -32832,7 +32832,7 @@
 			(uuid "0e218c86-ac1d-435c-932c-5df16f509af3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0158")
 					(unit 1)
@@ -32950,7 +32950,7 @@
 			(uuid "dc1f857c-a9ce-41c7-b227-ec72bb5852a0")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U103")
 					(unit 1)
@@ -33028,7 +33028,7 @@
 			(uuid "82ba2978-c77a-465d-9762-b6cc067122c4")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR011")
 					(unit 1)
@@ -33106,7 +33106,7 @@
 			(uuid "e77ef6f8-78e7-4338-bb97-84fe13e9b335")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR030")
 					(unit 1)
@@ -33184,7 +33184,7 @@
 			(uuid "11824627-abae-4e0c-9f1a-33aee1b8bdc0")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0189")
 					(unit 1)
@@ -33262,7 +33262,7 @@
 			(uuid "04a28445-4f46-4d58-bc76-0763f9944be6")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0125")
 					(unit 1)
@@ -33380,7 +33380,7 @@
 			(uuid "1a26525a-ed3f-4683-9b59-4913267109ad")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U110")
 					(unit 1)
@@ -33498,7 +33498,7 @@
 			(uuid "36c7a2ab-6aed-4c9f-b4ce-4e7c11c62112")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U21")
 					(unit 1)
@@ -33576,7 +33576,7 @@
 			(uuid "cd126a32-b758-4f90-8ae9-d014436c920f")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0218")
 					(unit 1)
@@ -33654,7 +33654,7 @@
 			(uuid "1a596abb-c29a-46c9-9cf2-6fbe40dba88b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0222")
 					(unit 1)
@@ -33732,7 +33732,7 @@
 			(uuid "0a522e18-9b78-4c58-a1e0-2296be25f610")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0216")
 					(unit 1)
@@ -33810,7 +33810,7 @@
 			(uuid "aa16f2ed-d048-4909-976b-e7973e8e23cf")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0248")
 					(unit 1)
@@ -33888,7 +33888,7 @@
 			(uuid "5576b7bf-6210-451d-aa7c-046d607a33f5")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0244")
 					(unit 1)
@@ -33966,7 +33966,7 @@
 			(uuid "4c21a68d-170e-4cc2-804b-97de75d0bab5")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR036")
 					(unit 1)
@@ -34044,7 +34044,7 @@
 			(uuid "89fd965f-9f12-476a-b8ed-575d3da429c9")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0147")
 					(unit 1)
@@ -34162,7 +34162,7 @@
 			(uuid "bb8f94e7-d308-4be0-817d-63966c070514")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U12")
 					(unit 1)
@@ -34240,7 +34240,7 @@
 			(uuid "1122d5d4-2410-4749-b790-e036255834e6")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR089")
 					(unit 1)
@@ -34318,7 +34318,7 @@
 			(uuid "34f7bf02-65a2-460e-86e3-4cae44b5794a")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0239")
 					(unit 1)
@@ -34436,7 +34436,7 @@
 			(uuid "7e27704f-b1ed-4f84-b5e6-7174447f5e40")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U4")
 					(unit 1)
@@ -34514,7 +34514,7 @@
 			(uuid "7abadd28-2ced-4211-b7c6-151e9058f01a")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR035")
 					(unit 1)
@@ -34592,7 +34592,7 @@
 			(uuid "a1b7197a-9584-492b-a7b6-4ae85f20de95")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0130")
 					(unit 1)
@@ -34710,7 +34710,7 @@
 			(uuid "747f855b-5dcf-468a-b675-7c32f8e1414b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U83")
 					(unit 1)
@@ -34788,7 +34788,7 @@
 			(uuid "7ede2ac2-6e3c-4a13-891d-44d94d471f10")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0112")
 					(unit 1)
@@ -34866,7 +34866,7 @@
 			(uuid "16e039e9-0922-40a9-8f0d-01dea0db9cfc")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR091")
 					(unit 1)
@@ -34984,7 +34984,7 @@
 			(uuid "8054779a-81ad-4b29-8bd8-22aded56e4af")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U101")
 					(unit 1)
@@ -35062,7 +35062,7 @@
 			(uuid "50a53c93-7d40-4236-adfa-82b6b2c1e601")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0103")
 					(unit 1)
@@ -35140,7 +35140,7 @@
 			(uuid "1ed346fe-e20f-4358-9cb8-50647e492fd1")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0149")
 					(unit 1)
@@ -35218,7 +35218,7 @@
 			(uuid "8c86e559-f8ba-4487-bb76-2d641021b447")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR084")
 					(unit 1)
@@ -35296,7 +35296,7 @@
 			(uuid "5ef9cb41-a84d-4909-84c3-81aabc33d10f")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR064")
 					(unit 1)
@@ -35374,7 +35374,7 @@
 			(uuid "6e99b15d-47c9-4220-9016-e24ab3e08431")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0280")
 					(unit 1)
@@ -35452,7 +35452,7 @@
 			(uuid "10e1eb2f-6e7b-460b-92aa-d60f206902d9")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0166")
 					(unit 1)
@@ -35530,7 +35530,7 @@
 			(uuid "ff8ce345-4385-4f4b-acc6-5cd603771ef0")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0113")
 					(unit 1)
@@ -35608,7 +35608,7 @@
 			(uuid "0b6a279a-b1f3-4aaa-bad2-10c8db3f13c2")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR073")
 					(unit 1)
@@ -35686,7 +35686,7 @@
 			(uuid "0ed74f25-cf71-42e8-b9af-5953c4034cc9")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0221")
 					(unit 1)
@@ -35764,7 +35764,7 @@
 			(uuid "8dfd19da-a9af-4f6a-bacb-2c7142a70ae2")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR042")
 					(unit 1)
@@ -35842,7 +35842,7 @@
 			(uuid "e4e44760-2cbc-4485-b601-2aa7db5b99b8")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0206")
 					(unit 1)
@@ -35920,7 +35920,7 @@
 			(uuid "8299600e-9bae-4ced-adea-7cecebbcbd10")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0139")
 					(unit 1)
@@ -36038,7 +36038,7 @@
 			(uuid "79bd78bf-5e7a-484b-a1aa-c85bdbc83df6")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U35")
 					(unit 1)
@@ -36116,7 +36116,7 @@
 			(uuid "f0fefadd-478c-41f6-9885-562a3a458c4f")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR082")
 					(unit 1)
@@ -36234,7 +36234,7 @@
 			(uuid "1d8f3eba-7766-4a0d-b091-e7c39d6a2d88")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U82")
 					(unit 1)
@@ -36352,7 +36352,7 @@
 			(uuid "693f1377-3023-4383-a2f7-585644ceb032")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U32")
 					(unit 1)
@@ -36470,7 +36470,7 @@
 			(uuid "c5ba432a-06d2-46fb-ab12-ad86efb7be2c")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U92")
 					(unit 1)
@@ -36588,7 +36588,7 @@
 			(uuid "3d0cbc4a-f8ba-4360-9e2f-b02bf6d48974")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U96")
 					(unit 1)
@@ -36666,7 +36666,7 @@
 			(uuid "ecba3d75-bf9b-4f23-95a6-ad841812911d")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0269")
 					(unit 1)
@@ -36744,7 +36744,7 @@
 			(uuid "81641186-dc44-4434-ab8f-983d69d1e01f")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR058")
 					(unit 1)
@@ -36862,7 +36862,7 @@
 			(uuid "115e7cff-097f-40e5-ad53-1a039a48b18b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U36")
 					(unit 1)
@@ -36940,7 +36940,7 @@
 			(uuid "1c1bb3c7-d3c4-4ae5-be71-cd455c6898fa")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0109")
 					(unit 1)
@@ -37018,7 +37018,7 @@
 			(uuid "6887988d-7510-434f-a089-ecdcd59c8e85")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0212")
 					(unit 1)
@@ -37136,7 +37136,7 @@
 			(uuid "1a7f76f6-1098-491c-a396-2b7168c2183e")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U88")
 					(unit 1)
@@ -37254,7 +37254,7 @@
 			(uuid "6d2c2461-2232-4d0e-9365-f706affa76a3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U5")
 					(unit 1)
@@ -37332,7 +37332,7 @@
 			(uuid "367580e0-1ae0-491f-b48c-76db8f90c482")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0233")
 					(unit 1)
@@ -37410,7 +37410,7 @@
 			(uuid "c5de3f6c-751e-4687-ac47-680c4ed70258")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0134")
 					(unit 1)
@@ -37488,7 +37488,7 @@
 			(uuid "e49dbc14-6284-470c-b658-39d3da5c82a7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0108")
 					(unit 1)
@@ -37566,7 +37566,7 @@
 			(uuid "f6d07582-5461-44ec-b889-90c16ad8a99e")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0217")
 					(unit 1)
@@ -37644,7 +37644,7 @@
 			(uuid "6da1d4ee-5c4b-4ce5-ae01-9d4869917711")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR051")
 					(unit 1)
@@ -37762,7 +37762,7 @@
 			(uuid "2adcd29f-8c02-4916-8752-4506b66fbad7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U102")
 					(unit 1)
@@ -37880,7 +37880,7 @@
 			(uuid "4ef5c0a4-4b6f-4a87-a7fc-413750e67dba")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U99")
 					(unit 1)
@@ -37958,7 +37958,7 @@
 			(uuid "e46b4d07-e12e-447b-a89f-c8b91fb6313d")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0114")
 					(unit 1)
@@ -38036,7 +38036,7 @@
 			(uuid "965eecae-7928-4721-a656-57664c6a1c64")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0275")
 					(unit 1)
@@ -38114,7 +38114,7 @@
 			(uuid "e9b6a508-cc66-45b3-94f7-21216e0b9d64")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0235")
 					(unit 1)
@@ -38192,7 +38192,7 @@
 			(uuid "1efe1f99-61e8-4c17-a58a-c059c6b006cf")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0175")
 					(unit 1)
@@ -38310,7 +38310,7 @@
 			(uuid "1b5c6d9d-7b54-4627-b825-b51a07f0740f")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U108")
 					(unit 1)
@@ -38428,7 +38428,7 @@
 			(uuid "fa55c279-e19e-4104-bfde-37a198e6369d")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U122")
 					(unit 1)
@@ -38507,7 +38507,7 @@
 			(uuid "fdbdad4d-76df-4622-a48b-379fe5ae37d6")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "TP2")
 					(unit 1)
@@ -38625,7 +38625,7 @@
 			(uuid "8e85cdc8-8a10-4248-b524-1a582f62c001")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U43")
 					(unit 1)
@@ -38703,7 +38703,7 @@
 			(uuid "fbea2b1f-0083-4ec2-9dab-39aca2fd00fa")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0155")
 					(unit 1)
@@ -38781,7 +38781,7 @@
 			(uuid "eafe49c4-7d05-44d0-bca9-1151785a9ad7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0141")
 					(unit 1)
@@ -38899,7 +38899,7 @@
 			(uuid "b0f58c33-3ffa-4454-9c88-318c2cbd9aab")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U80")
 					(unit 1)
@@ -39017,7 +39017,7 @@
 			(uuid "507ec655-0ff4-4c9f-8afe-0d0378aafe11")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U120")
 					(unit 1)
@@ -39135,7 +39135,7 @@
 			(uuid "ddce766f-c79d-4c7e-b76d-65edaa786209")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U68")
 					(unit 1)
@@ -39253,7 +39253,7 @@
 			(uuid "2e449c0a-a1e1-4da8-9c28-eff072471d62")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U53")
 					(unit 1)
@@ -39331,7 +39331,7 @@
 			(uuid "7cf719e4-4cac-4016-a60a-714d45e16842")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0225")
 					(unit 1)
@@ -39409,7 +39409,7 @@
 			(uuid "084eb66c-10f7-4931-a438-ef05153ea77c")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0193")
 					(unit 1)
@@ -39419,7 +39419,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 429.26 93.98 0)
+		(at 425.45 83.82 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -39430,7 +39430,7 @@
 		(fields_autoplaced yes)
 		(uuid "c4b444d2-f25f-4bc2-8109-c3feb7c911c1")
 		(property "Reference" "#PWR0283"
-			(at 429.26 97.79 0)
+			(at 425.45 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39441,7 +39441,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 429.26 88.9 0)
+			(at 425.45 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -39451,7 +39451,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 429.26 93.98 0)
+			(at 425.45 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39462,7 +39462,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 429.26 93.98 0)
+			(at 425.45 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39473,7 +39473,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 429.26 93.98 0)
+			(at 425.45 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39487,7 +39487,7 @@
 			(uuid "e958b8d2-e6c1-4d1d-8384-63e221504c88")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0283")
 					(unit 1)
@@ -39565,7 +39565,7 @@
 			(uuid "ac5e5fb4-4987-474e-bb3c-42b83c28baaf")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0167")
 					(unit 1)
@@ -39683,7 +39683,7 @@
 			(uuid "adbaa403-00b8-40cb-8a02-68b38a768dee")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U3")
 					(unit 1)
@@ -39761,7 +39761,7 @@
 			(uuid "687915bf-470e-459a-905d-0b6d06bf8664")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0102")
 					(unit 1)
@@ -39840,7 +39840,7 @@
 			(uuid "865716e3-5c83-4fd5-bff9-50d67a4a1acb")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "R2")
 					(unit 1)
@@ -39958,7 +39958,7 @@
 			(uuid "56e3c59c-b204-4a05-9039-073216615211")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U38")
 					(unit 1)
@@ -40036,7 +40036,7 @@
 			(uuid "74a4e20b-29f5-4c9e-917d-0d91179c8baf")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR070")
 					(unit 1)
@@ -40114,7 +40114,7 @@
 			(uuid "5cada8d0-cba6-48c7-9765-ffd91cc1c752")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR037")
 					(unit 1)
@@ -40193,7 +40193,7 @@
 			(uuid "154755f4-ed48-47e8-88c2-e0b27482af09")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "R7")
 					(unit 1)
@@ -40271,7 +40271,7 @@
 			(uuid "3a0deae8-335e-4ac6-9eef-6f4da2bd17eb")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0115")
 					(unit 1)
@@ -40350,7 +40350,7 @@
 			(uuid "5c4fb5b9-6ea9-4463-bec0-bf246d2f81ca")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "R11")
 					(unit 1)
@@ -40428,7 +40428,7 @@
 			(uuid "72ab0ad1-f056-4864-bbfc-ca803afa2422")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR010")
 					(unit 1)
@@ -40506,7 +40506,7 @@
 			(uuid "8f9d299b-e86d-40ee-acb0-31b23d09adc0")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0173")
 					(unit 1)
@@ -40584,7 +40584,7 @@
 			(uuid "4c6c2cc1-c296-48aa-bd67-d1d3cc3b1d1b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0209")
 					(unit 1)
@@ -40662,7 +40662,7 @@
 			(uuid "bcd46bd1-eb50-4854-84d6-15623bae8730")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0236")
 					(unit 1)
@@ -40740,7 +40740,7 @@
 			(uuid "d09fff68-a052-45c0-8eae-921cdbc44787")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR08")
 					(unit 1)
@@ -40858,7 +40858,7 @@
 			(uuid "0e695adc-3cf0-49af-93c3-1fb6051fd002")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U95")
 					(unit 1)
@@ -40976,7 +40976,7 @@
 			(uuid "66ecfee1-491d-42fb-a4d6-cbffeb0bca7f")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U31")
 					(unit 1)
@@ -41054,7 +41054,7 @@
 			(uuid "34ccde95-a149-44e1-b1a0-1006030fc8ae")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0197")
 					(unit 1)
@@ -41132,7 +41132,7 @@
 			(uuid "6f644337-8f3d-4a75-b835-50b16ddd85e6")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR076")
 					(unit 1)
@@ -41250,7 +41250,7 @@
 			(uuid "0dfae0e9-baf6-4e53-824a-0705f177f3e2")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U19")
 					(unit 1)
@@ -41328,7 +41328,7 @@
 			(uuid "245442f6-bc0f-4af4-8f46-38a47bbfad11")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0133")
 					(unit 1)
@@ -41408,7 +41408,7 @@
 			(uuid "921aa179-6117-40f4-989a-61dec6575aa0")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "SW1")
 					(unit 1)
@@ -41486,7 +41486,7 @@
 			(uuid "a97ed172-3990-4b51-a362-3284c397fbee")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0168")
 					(unit 1)
@@ -41496,7 +41496,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 429.26 101.6 0)
+		(at 425.45 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -41507,7 +41507,7 @@
 		(fields_autoplaced yes)
 		(uuid "cf9da182-e92b-476c-9d97-b3f0e78ad615")
 		(property "Reference" "#PWR0284"
-			(at 429.26 107.95 0)
+			(at 425.45 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41518,7 +41518,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 429.26 106.68 0)
+			(at 425.45 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -41528,7 +41528,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 429.26 101.6 0)
+			(at 425.45 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41539,7 +41539,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 429.26 101.6 0)
+			(at 425.45 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41550,7 +41550,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 429.26 101.6 0)
+			(at 425.45 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41564,7 +41564,7 @@
 			(uuid "d1f2267d-8300-4754-91d3-bd7cc93cc569")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0284")
 					(unit 1)
@@ -41642,7 +41642,7 @@
 			(uuid "bea2f3d9-743f-442e-85c0-a3784596e801")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0101")
 					(unit 1)
@@ -41720,7 +41720,7 @@
 			(uuid "8d382273-2eeb-4810-b0ac-306fae84f25c")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0150")
 					(unit 1)
@@ -41798,7 +41798,7 @@
 			(uuid "fe5733ac-9cf8-4951-8833-edaa39c5d94e")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0188")
 					(unit 1)
@@ -41876,7 +41876,7 @@
 			(uuid "ee5b34ed-6a7e-4bdd-900a-89f0533baa80")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR049")
 					(unit 1)
@@ -41994,7 +41994,7 @@
 			(uuid "de6dca07-d0bb-481e-a3f5-7cf66eb1edea")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U6")
 					(unit 1)
@@ -42072,7 +42072,7 @@
 			(uuid "5dcb9df4-1704-4b26-8454-1ef7c11f02e6")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0135")
 					(unit 1)
@@ -42150,7 +42150,7 @@
 			(uuid "c687f826-901a-44aa-afef-5a4d17b57398")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0127")
 					(unit 1)
@@ -42228,7 +42228,7 @@
 			(uuid "074a9489-55dc-4388-b693-8f8de62796ba")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR092")
 					(unit 1)
@@ -42346,7 +42346,7 @@
 			(uuid "98d242f8-2389-4cf5-9e13-2dad1f1e80d1")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U27")
 					(unit 1)
@@ -42424,7 +42424,7 @@
 			(uuid "5bd54bc3-fd39-4945-ba4d-9f330a3f5221")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0169")
 					(unit 1)
@@ -42502,7 +42502,7 @@
 			(uuid "f46deee4-a402-455b-89f6-3e3e8ae17a12")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR016")
 					(unit 1)
@@ -42580,7 +42580,7 @@
 			(uuid "9f8cb1ef-32f5-400b-b3a1-639095c030e4")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0163")
 					(unit 1)
@@ -42658,7 +42658,7 @@
 			(uuid "255a386f-a21c-4d76-a30b-03ba7ca7f179")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR048")
 					(unit 1)
@@ -42736,7 +42736,7 @@
 			(uuid "fc3914ec-e47f-43a7-8cb3-c41cc36858e7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0146")
 					(unit 1)
@@ -42814,7 +42814,7 @@
 			(uuid "0a161be2-596e-41f6-aed3-ad93b1e3a908")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0220")
 					(unit 1)
@@ -42892,7 +42892,7 @@
 			(uuid "d529dc0c-fc01-4057-afe9-5c5fc9b37c06")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0279")
 					(unit 1)
@@ -42970,7 +42970,7 @@
 			(uuid "061a10a9-93aa-4476-97d4-6e7fe43ee23b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0122")
 					(unit 1)
@@ -43088,7 +43088,7 @@
 			(uuid "a8afe8ef-482c-4e1e-ba0d-76d3bc01ca8b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U29")
 					(unit 1)
@@ -43166,7 +43166,7 @@
 			(uuid "c01bb52d-144a-4dc5-a481-1e2b24a49449")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0200")
 					(unit 1)
@@ -43284,7 +43284,7 @@
 			(uuid "8dfb9bda-ddf2-4621-973f-82165d22d008")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U26")
 					(unit 1)
@@ -43362,7 +43362,7 @@
 			(uuid "a4136517-b0b9-4ed5-bda2-18a3f6c0afee")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0213")
 					(unit 1)
@@ -43440,7 +43440,7 @@
 			(uuid "14830a4d-e658-4c35-851e-ce1bdd2c5f50")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0190")
 					(unit 1)
@@ -43518,7 +43518,7 @@
 			(uuid "0589706e-1018-4269-95ba-83c2832f34f7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0181")
 					(unit 1)
@@ -43596,7 +43596,7 @@
 			(uuid "c2596a7d-85c2-4911-b414-4bb55637aee3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0276")
 					(unit 1)
@@ -43674,7 +43674,7 @@
 			(uuid "04a7a3b2-aa7d-4eb4-ad85-e3a40f47163a")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR075")
 					(unit 1)
@@ -43792,7 +43792,7 @@
 			(uuid "1bbd487a-8c28-4ae3-84a6-723223b2fded")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U58")
 					(unit 1)
@@ -43870,7 +43870,7 @@
 			(uuid "568d6064-fffa-4fd9-b649-7aa2b3445361")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR022")
 					(unit 1)
@@ -43948,7 +43948,7 @@
 			(uuid "366c547a-78cc-4a53-8554-26d2370899ad")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0128")
 					(unit 1)
@@ -44026,7 +44026,7 @@
 			(uuid "f68468f1-118d-4a7b-b786-e699880be8f6")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR055")
 					(unit 1)
@@ -44104,7 +44104,7 @@
 			(uuid "65bff353-9193-4361-b59c-096f7412f480")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0119")
 					(unit 1)
@@ -44183,7 +44183,7 @@
 			(uuid "7519e674-6029-4d5c-a8a4-835966276a56")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "C1")
 					(unit 1)
@@ -44261,7 +44261,7 @@
 			(uuid "d84ed51b-ae0d-4c80-8bcf-fde727280740")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0242")
 					(unit 1)
@@ -44339,7 +44339,7 @@
 			(uuid "2c6b57fd-beb2-43be-97c9-907570eaad9a")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0111")
 					(unit 1)
@@ -44417,7 +44417,7 @@
 			(uuid "52fe1448-7a97-4a10-bd32-f7f373c9822a")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0266")
 					(unit 1)
@@ -44535,7 +44535,7 @@
 			(uuid "455b5662-3d07-4f80-b255-fdff4594e355")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U93")
 					(unit 1)
@@ -44653,7 +44653,7 @@
 			(uuid "bce9af1d-b155-4ac2-a9cc-029dd985a1d4")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U114")
 					(unit 1)
@@ -44771,7 +44771,7 @@
 			(uuid "5f456fbb-24f0-4047-9a65-50d4db6d3583")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U15")
 					(unit 1)
@@ -44849,7 +44849,7 @@
 			(uuid "f6c8e016-3942-4c8c-b9a2-ef918f6bfcb1")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0214")
 					(unit 1)
@@ -44967,7 +44967,7 @@
 			(uuid "2ca6f107-cbaa-4190-aba9-7e46030538a7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U113")
 					(unit 1)
@@ -45085,7 +45085,7 @@
 			(uuid "3a3e88d6-8e0b-4a5d-a415-7cd670c8e62a")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U73")
 					(unit 1)
@@ -45162,7 +45162,7 @@
 			(uuid "07a0f82c-9672-4845-a2fd-22c1b098c527")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR015")
 					(unit 1)
@@ -45240,7 +45240,7 @@
 			(uuid "2c679beb-2f7b-4fd8-a9bf-469f12ce8c10")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR04")
 					(unit 1)
@@ -45318,7 +45318,7 @@
 			(uuid "22fad16a-e2e4-4e81-93ce-061cd07bb873")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0267")
 					(unit 1)
@@ -45396,7 +45396,7 @@
 			(uuid "2f5c4b98-4e6b-4983-9014-133c990d4d53")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0171")
 					(unit 1)
@@ -45474,7 +45474,7 @@
 			(uuid "4a3ef872-6214-42b9-9669-c39169526ceb")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR096")
 					(unit 1)
@@ -45552,7 +45552,7 @@
 			(uuid "b9a98dcc-0be2-4117-9d4c-52a81d6d1a32")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0274")
 					(unit 1)
@@ -45630,7 +45630,7 @@
 			(uuid "987bf6dd-66a1-4be7-9c2b-398ab9c966dc")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0207")
 					(unit 1)
@@ -45710,7 +45710,7 @@
 			(uuid "384892cf-849e-4870-b005-4a695419a85b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "SW4")
 					(unit 1)
@@ -45828,7 +45828,7 @@
 			(uuid "65f3c2bc-0359-4148-be6b-9062480376d7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U2")
 					(unit 1)
@@ -45905,7 +45905,7 @@
 			(uuid "d74349b1-9564-46fc-9ce6-ec3d99f76836")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR013")
 					(unit 1)
@@ -46023,7 +46023,7 @@
 			(uuid "c045e505-774d-4f22-9b50-19fc253a28d8")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U125")
 					(unit 1)
@@ -46141,7 +46141,7 @@
 			(uuid "3ca971ad-5b99-4150-98f0-ebf3a30b4bd6")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U65")
 					(unit 1)
@@ -46221,7 +46221,7 @@
 			(uuid "793e479d-f2f1-4bf4-964d-b854e0c9ee0c")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "SW6")
 					(unit 1)
@@ -46339,7 +46339,7 @@
 			(uuid "b0c5da25-4735-4816-a02b-a31bf10d6173")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U24")
 					(unit 1)
@@ -46417,7 +46417,7 @@
 			(uuid "7680809b-1c02-438e-b255-8ff085e11181")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0253")
 					(unit 1)
@@ -46535,7 +46535,7 @@
 			(uuid "d33eb248-abfc-4320-8aca-7792fc9fdeaf")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U116")
 					(unit 1)
@@ -46653,7 +46653,7 @@
 			(uuid "37d5b00c-bdae-4cab-9860-50319609837f")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U55")
 					(unit 1)
@@ -46732,7 +46732,7 @@
 			(uuid "f11aa98f-4c79-4fb7-bdb2-7dbaa659df9a")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "TP3")
 					(unit 1)
@@ -46810,7 +46810,7 @@
 			(uuid "b4173a4c-1ef3-4da1-bbf4-1a4049557c89")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0170")
 					(unit 1)
@@ -46928,7 +46928,7 @@
 			(uuid "2a1cddda-1551-4ab6-895c-6f919abf075b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U39")
 					(unit 1)
@@ -47006,7 +47006,7 @@
 			(uuid "be8e88cb-5651-456f-b78b-0e68e1249a2d")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR067")
 					(unit 1)
@@ -47086,7 +47086,7 @@
 			(uuid "d3760f9a-160f-4203-ba72-692438e1e041")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "SW7")
 					(unit 1)
@@ -47164,7 +47164,7 @@
 			(uuid "c39a45af-fea4-46bb-9b4a-746034c78c90")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0272")
 					(unit 1)
@@ -47282,7 +47282,7 @@
 			(uuid "20c8c00d-32a3-4e56-ac36-16452289609e")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U98")
 					(unit 1)
@@ -47360,7 +47360,7 @@
 			(uuid "9126b48e-d753-4892-8ecd-0b199c509ce2")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0201")
 					(unit 1)
@@ -47438,7 +47438,7 @@
 			(uuid "ee67ae2a-f4ae-47d2-878d-899f4dc3a5c3")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0136")
 					(unit 1)
@@ -47516,7 +47516,7 @@
 			(uuid "640c3f56-79cd-4dda-9239-ecd08c494775")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0241")
 					(unit 1)
@@ -47594,7 +47594,7 @@
 			(uuid "50fd8ac5-6577-4b51-93ab-38c827c800e7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0237")
 					(unit 1)
@@ -47672,7 +47672,7 @@
 			(uuid "5e43c59b-3266-4d41-96ff-6d39564a5489")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0271")
 					(unit 1)
@@ -47750,7 +47750,7 @@
 			(uuid "9cc0364c-aae0-48d7-afbf-ecf44f233083")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0224")
 					(unit 1)
@@ -47828,7 +47828,7 @@
 			(uuid "c1c96919-e884-4745-80ce-82c52b986b50")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0132")
 					(unit 1)
@@ -47906,7 +47906,7 @@
 			(uuid "9de97d2e-0261-44a8-bc08-000b843e9f54")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0100")
 					(unit 1)
@@ -48024,7 +48024,7 @@
 			(uuid "bea92fd6-b9d7-4b4f-bcb2-b0ee22460b34")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U100")
 					(unit 1)
@@ -48102,7 +48102,7 @@
 			(uuid "2ddc235f-9168-4036-8f69-b50528d43320")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0262")
 					(unit 1)
@@ -48220,7 +48220,7 @@
 			(uuid "93d60e89-4673-4a5f-a9cf-7b1cb6c7372b")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U119")
 					(unit 1)
@@ -48298,7 +48298,7 @@
 			(uuid "1e89e364-a72d-4b47-95ba-aa01d9a68f1a")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0105")
 					(unit 1)
@@ -48376,7 +48376,7 @@
 			(uuid "645ae0eb-e8b0-4615-986e-92db73c3d389")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR077")
 					(unit 1)
@@ -48494,7 +48494,7 @@
 			(uuid "52305f0f-96e0-4ed7-bf56-6e6e7e039418")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U47")
 					(unit 1)
@@ -48612,7 +48612,7 @@
 			(uuid "0dc04545-03f7-4d82-af7d-c27a852bd8b2")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U111")
 					(unit 1)
@@ -48730,7 +48730,7 @@
 			(uuid "8c4e1cbc-8454-41b8-8efa-9e0c8aae07b7")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "U57")
 					(unit 1)
@@ -48808,7 +48808,7 @@
 			(uuid "c4262ce3-750e-40e2-9782-6369d6bf2dcd")
 		)
 		(instances
-			(project "GameWizLite"
+			(project "WizLite"
 				(path "/6cda0262-fb2d-4668-a491-1d446f498da6"
 					(reference "#PWR0186")
 					(unit 1)
