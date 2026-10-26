@@ -18,6 +18,40 @@ On the pcb, I added some text to demarcate the player one and player two sides, 
 ### PCB Layout:
 <img width="634" height="678" alt="Screenshot 2026-10-25 215342" src="https://github.com/user-attachments/assets/a98c6055-4368-4b4d-9a02-b8e70f02e924" />
 
+### Assembly/Ordering: 
+The LED pads used on the pcb 
+
+## Firmware:
+This project has the main firmware written in C, for the Arduino IDE, using the ch55xdunio library. Using C was new for me, but it was very similar to C++, and I was able to get a hang of it decently quickly. The basic idea is that the firmware drives the 9x14 RGB LED matrix, reads the user buttons, and executes game instructions. The firmware was (in my opinion) the hardest part of this project, but it also what I am most proud of. Anyway, here is the full breakdown of the code and other details about it.
+
+#### Games (only one for now):
+- Snake (single player)
+- More TBD
+
+Hold Player 1 LEFT + RIGHT for 2 seconds to leave a game and return to the menu.
+
+#### How it works (like very high level) :
+- **Menu:** A carousel of game cover pictures. LEFT/RIGHT pans, UP starts the selected game.
+- **Screen:** screenUpdate(x, y, r, g, b) sets a pixel with (0,0) at the top left. It handles the split display, the zigzag LED wiring and a brightness limit so USB power limits aren't excided, and stores the result directly in the LED buffer. screenShow() sends that to the LEDs to acutally turn it on.
+- **Pictures:** Each picture (like on the game cover carousel) has its own list of colors plus 14 rows of 9 characters. Use `PictureMaker.html` to draw one or import it from a Figma screenshot, and it writes the code for you. **NOTE:** This part (and only this part) of the code was made fully using AI, it looks vide coded, and that is because it is. Please understand if there are small bugs in it.
+- **Text:** I added a 3x5 font (A-Z, 0-9) that can be called separately or with micro:bit style scrolling for longer texts.
+
+#### Files:
+| File | Purpose |
+|---|---|
+| `WizGameLite.ino` | Game menu and game list |
+| `WizBase.c / .h` | Screen, buttons, text, shared pictures |
+| `Snake.c / .h` | Snake game and its cover picture |
+| `PictureMaker.html` | Tool for making pictures (opens in a browser, make sure javascript is enabled) |
+
+#### PictureMaker:
+<img width="1686" height="897" alt="Screenshot 2026-10-22 011710" src="https://github.com/user-attachments/assets/8add4a06-d2b9-41f1-a8e4-2f2c4fdc680f" />
+
+#### Adding a game:
+See the "HOW TO ADD A GAME" comment in `WizGameLite.ino`.
+
+#### AI Usage: 
+The code for the actual controller was fully coded by me (with only limited debug and learning help from AI). However, the online picture maker was fully vibe code, and it was also the first time I ever have vibe coded :)
 
 
 
