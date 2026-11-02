@@ -54,21 +54,20 @@ See the "HOW TO ADD A GAME" comment in `WizGameLite.ino`.
 The code for the actual controller was fully coded by me (with only limited debug and learning help from AI). However, the online picture maker was fully vibe code, and it was also the first time I ever have vibe coded :)
 
 ## BOM: 
-| Part | Designators | Quantity | Retailer | Total Price |
-|------|-------------|----------|----------|-------------|
-| XL-0807RGBC-2812B-S (WS2812B-style addressable RGB LED, 2.0x1.8mm) `C41413181` | U2–U127 | 126x5 (640 ordered) | LCSC | $13.38 |
-| 47uF ±10% 16V Ceramic Capacitor, 1210 (CS3225X7R476K160NRL) `C5440143` | C3, C4 | 2x5 | LCSC | $2.23 |
-| 10kΩ ±1% 0805 Resistor (0805W8F1002T5E) `C17414` | R1–R4, R7–R11 | 9x5 (100 MOQ) | LCSC | $0.34 |
-| 100n Capacitor, 0805 | C1, C2 | 2x5 | Already have | $0.00 |
-| 330Ω Resistor, 0805 | R12, R13 | 2x5 | Already have | $0.00 |
-| 5.1kΩ Resistor, 0805 | R5, R6 | 2x5 | Already have | $0.00 |
-| CH552G Microcontroller (SOIC-16) | U1 | 1x5 | Already have | $0.00 |
-| USB-C Receptacle (HCTL HC-TYPE-C-16P-01A) | J1 | 1x5 | Already have | $0.00 |
-| SMD Push Button Switch (TS-1088-xR020) | SW1–SW9 | 9x5 | Already have | $0.00 |
-| Test Point Pad (D1.0mm) | TP1–TP4 | 4x5 | Already have | $0.00 |
-| PCB (5x boards, Black, 1.6mm, OSP) | – | 1x5 | JLCPCB | $4.00 |
-| SMT Stencil (75x100mm, no frame, top) | – | 1 | JLCPCB | $3.10 |
-
+| Part | Designators | Quantity | Retailer | Total Price | Link |
+|------|-------------|----------|----------|-------------|------|
+| XL-0807RGBC-2812B-S (WS2812B-style addressable RGB LED, 2.0x1.8mm) `C41413181` | U2–U127 | 126x5 (640 ordered) | LCSC | $13.38 | [LCSC](https://www.lcsc.com/product-detail/C41413181.html) |
+| 47uF ±10% 16V Ceramic Capacitor, 1210 (CS3225X7R476K160NRL) `C5440143` | C3, C4 | 2x5 | LCSC | $2.23 | [LCSC](https://www.lcsc.com/product-detail/C5440143.html) |
+| 10kΩ ±1% 0805 Resistor (0805W8F1002T5E) `C17414` | R1–R4, R7–R11 | 9x5 (100 MOQ) | LCSC | $0.34 | [LCSC](https://www.lcsc.com/product-detail/C17414.html) |
+| 100n Capacitor, 0805 | C1, C2 | 2x5 | Already have | $0.00 | [LCSC](https://www.lcsc.com/product-detail/C1711.html) |
+| 330Ω Resistor, 0805 | R12, R13 | 2x5 | Already have | $0.00 | [LCSC](https://www.lcsc.com/product-detail/C17630.html) |
+| 5.1kΩ Resistor, 0805 | R5, R6 | 2x5 | Already have | $0.00 | [LCSC](https://www.lcsc.com/product-detail/C27834.html) |
+| CH552G Microcontroller (SOIC-16) | U1 | 1x5 | Already have | $0.00 | [LCSC](https://www.lcsc.com/product-detail/C111292.html) |
+| USB-C Receptacle (HCTL HC-TYPE-C-16P-01A) | J1 | 1x5 | Already have | $0.00 | [LCSC](https://www.lcsc.com/product-detail/C2894897.html) |
+| SMD Push Button Switch (TS-1088-xR020) | SW1–SW9 | 9x5 | Already have | $0.00 | [LCSC](https://www.lcsc.com/product-detail/C720477.html) |
+| PCB (5x boards, Black, 1.6mm, OSP) | – | 1x5 | JLCPCB | $4.00 | – |
+| SMT Stencil (75x100mm, no frame, top) | – | 1 | JLCPCB | $3.10 | – |
+ 
 **Parts Subtotal:** LCSC ($15.95, after $1.15 discount) + JLCPCB ($7.10) = $23.05
 
 **Shipping:** LCSC ($9.77) + JLCPCB ($11.83) = $21.60
