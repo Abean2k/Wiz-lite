@@ -19,7 +19,9 @@ On the pcb, I added some text to demarcate the player one and player two sides, 
 <img width="634" height="678" alt="Screenshot 2026-10-25 215342" src="https://github.com/user-attachments/assets/a98c6055-4368-4b4d-9a02-b8e70f02e924" />
 
 ### Assembly/Ordering: 
-The LED pads used on the pcb 
+The LED pads used on the pcb are technically over the "fine pitch" threshold of JLCPCB, and as such could be ordered with HASL. However, I recommend getting either OSP or ENIG as their pads are much flatter. When ordering, I would also make sure to order a stencil, as applying solder paste to the small led pads is very hard to do without applying excess solder. While soldering/reflowing, also make sure to not heat the leds too much (max 20 seconds at reflow tempurature).
+
+You could also get the pcb assembled through something like JLCPCB PCBA service, however I chose not to for price saving reasons. 
 
 ## Firmware:
 This project has the main firmware written in C, for the Arduino IDE, using the ch55xdunio library. Using C was new for me, but it was very similar to C++, and I was able to get a hang of it decently quickly. The basic idea is that the firmware drives the 9x14 RGB LED matrix, reads the user buttons, and executes game instructions. The firmware was (in my opinion) the hardest part of this project, but it also what I am most proud of. Anyway, here is the full breakdown of the code and other details about it.
